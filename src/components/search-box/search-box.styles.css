@@ -1,0 +1,15 @@
+.search-box {
+  -webkit-appearance: none;
+  height: 30px;
+  width: 300px;
+  border-style: none;
+  padding: 20px;
+  font-size: 18px;
+  letter-spacing: 2px;
+  outline: none;
+  border-radius: 25px;
+  transition: all 0.5s ease-in-out;
+  background-color: black;
+
+  color: #fff;
+}
