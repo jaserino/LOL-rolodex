@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LOL-rolodex/static/css/main.924c54c2.css",
+    "main.js": "/LOL-rolodex/static/js/main.8c354871.js",
+    "static/js/787.50800559.chunk.js": "/LOL-rolodex/static/js/787.50800559.chunk.js",
+    "index.html": "/LOL-rolodex/index.html",
+    "main.924c54c2.css.map": "/LOL-rolodex/static/css/main.924c54c2.css.map",
+    "main.8c354871.js.map": "/LOL-rolodex/static/js/main.8c354871.js.map",
+    "787.50800559.chunk.js.map": "/LOL-rolodex/static/js/787.50800559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.924c54c2.css",
+    "static/js/main.8c354871.js"
+  ]
+}
